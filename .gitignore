@@ -1,0 +1,8 @@
+*~
+*.DS_Store
+.idea
+project/target
+target
+project/project
+py/.idea
+py/gen-java
